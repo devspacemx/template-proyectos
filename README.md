@@ -38,7 +38,7 @@ Este proyecto es una plantilla para crear proyectos en DevSpace. Puedes forkearl
 - [x] Etiquetas estándar en la sección de *issues*.
 - [x] Etiquetas en el about del proyecto.
 - [x] Template para HACKLOG.md
-- [x] Archivo LICENCE con licencia MIT.
+- [x] Archivo LICENSE con licencia MIT.
 
 ## Requisitos
 
