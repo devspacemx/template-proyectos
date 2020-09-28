@@ -116,7 +116,7 @@ Considera contribuir al proyecto de cualquier forma. Un buen inicio es la docume
 
 Este proyecto tampoco hubiera sido posible sin el apoyo de Richard Stallman, Aaron Swartz, Edward Snowden, Kevin Mitnick, Linus Torvalds y Chelsea Manning.
 
-`{}` con ❤️ por la comunidad de [DevSpace](https://www.devspace.mx).
+`{}` con ❤️ por la comunidad de [DevSpace](https://devspace.mx).
 
 ## Licencia
 
